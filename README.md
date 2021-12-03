@@ -10,6 +10,10 @@ Réalisé par **Anass AIT BEN EL ARBI**
 <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/><br/>
 Déploiement sur heroku  : [Lien de déploiement](https://anass-abea-film-app.herokuapp.com/)
 
+Lien de la base de données : 
+[mongodb+srv://Anass:ANNASS-EVERY@cluster0.g2oli.mongodb.net/myFirstDatabase?retryWrites=true&w=majority](mongodb+srv://Anass:ANNASS-EVERY@cluster0.g2oli.mongodb.net/myFirstDatabase?retryWrites=true&w=majority)
+
+
 ## Fonctionalités
 - création de comptes
 - connection
